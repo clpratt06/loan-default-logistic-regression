@@ -15,15 +15,16 @@ Built a weighted logistic regression model to predict borrower loan default risk
 
 ### Approach
 
-Cleaned and imputed financial features (credit score, LTV, DTI, interest rate)
-Removed extreme outliers
-Stratified train-test split
-Implemented logistic regression with class weighting
-Evaluated using confusion matrix, precision, recall, and F1-score
+Cleaned and imputed financial features (credit score, LTV, DTI, interest rate)  
+Removed extreme outliers  
+Stratified train-test split  
+Implemented logistic regression with class weighting  
+Evaluated using confusion matrix, precision, recall, and F1-score  
 
 ### Results
 
-Recall: 0.59
-Precision: 0.28
-Accuracy: 0.53
+Recall: 0.59  
+Precision: 0.28  
+Accuracy: 0.53  
+
 
